@@ -17,7 +17,7 @@ selected_page = st.sidebar.selectbox("Go to", menu_options)
 
 if selected_page == "Dashboard":
     st.title("DASHBOARD")
-    st.write("Welcome to the Dashboard Reza Pahlevi!")
+    st.write("Welcome to the Dashboard!")
 
 
     @st.cache_data
