@@ -15,7 +15,7 @@ Jika belum, instal semua pustaka dengan menjalankan perintah berikut di terminal
 
 3. Jalankan Dashboard dengan Streamlit
 Ketik perintah berikut di terminal:
-streamlit run dashboard.py
+- streamlit run dashboard.py
 Gantilah dashboard.py dengan nama file Python Anda jika berbeda.
 Pastikan Anda menjalankan perintah ini di folder tempat file tersebut berada.
 dan pastikan link ke path dataset sudah benar karena yang di github itu digunakan untuk deploy streamlitnya ya kak.
