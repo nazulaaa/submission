@@ -6,7 +6,7 @@ import calendar
 import seaborn as sns
 import numpy as np 
 
-df = pd.read_csv("\dashboard\dashboard.py")
+df = pd.read_csv("dashboard\dashboard.py")
 
 st.sidebar.title("Navigation")
 
